@@ -173,3 +173,7 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.mb5 span {
+  color: #4c5e70;
+}
