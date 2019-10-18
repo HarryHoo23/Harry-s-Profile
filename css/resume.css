@@ -177,3 +177,21 @@ a:hover, a:focus, a:active {
 .mb5 span {
   color: #4c5e70;
 }
+
+.btn-primary {
+  position: absolute;
+  bottom: 1rem;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.modal-dialog {
+  height: 100vh;
+}
+
+.modal-content {
+  position: absolute;
+  top: 20%;
+}
